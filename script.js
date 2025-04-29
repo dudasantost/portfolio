@@ -213,4 +213,12 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 2000);
         }, 1500);
     });
+
+    const aumentaFontBotao= document.getElementById('aumentar-fonte');
+    const diminuiFontBotao= document.getElementById('diminuir-fonte');
+
+    let tamanhoAtualFonte= 1;
+
+    aumentaFonteBo
+
 });
